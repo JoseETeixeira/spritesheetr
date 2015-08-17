@@ -1,0 +1,3 @@
+spritesheetr/bin/*
+spritesheetr/obj/*
+!spritesheetr/external/*.dll
